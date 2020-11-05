@@ -1,0 +1,28 @@
+{
+  "name": "noderssbot-logo",
+  "version": "0.0.1",
+  "description": "logo source of NodeRSSBot",
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "npx gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeRSSBot/logo.git"
+  },
+  "keywords": [
+    "logo",
+    "NodeRSSBot"
+  ],
+  "author": "fengkx",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/NodeRSSBot/logo/issues"
+  },
+  "homepage": "https://github.com/NodeRSSBot/logo#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-svgo": "^2.2.1"
+  }
+}

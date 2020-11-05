@@ -1,0 +1,26 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <defs>
+        <style>
+.bg {
+    fill: #278d2c;
+}
+.round, .sm-curve {
+    fill: white;
+}
+.lg-curve {
+    fill: white;
+}
+
+.r {
+    x 15, y 85;
+    r 33 46;
+    bw 13;
+}
+</style>
+    </defs>
+    <rect class="bg" x="0" y="0" height="100" width="100" />
+    <path class="sm-curve" d="M 15 54 L 15 40 A 46 46 0 0 1 62 85 L 48 85 A 33 33 0 0 0 15 54 Z" />
+    <path class="lg-curve" d="M 15 30 L 15 16 A 70 70 0 0 1 86 85 L 72 85 A 57 57 0 0 0 15 30 Z" />
+    <circle class="round" cx="25" cy="76" r="9"></circle>
+</svg>
