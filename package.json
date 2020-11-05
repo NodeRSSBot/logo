@@ -1,6 +1,6 @@
 {
   "name": "noderssbot-logo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "logo source of NodeRSSBot",
   "main": "gulpfile.js",
   "scripts": {
